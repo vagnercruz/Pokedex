@@ -26,7 +26,7 @@ Este é um projeto de estudo que consiste em uma Pokédex desenvolvida utilizand
 
 Captura de tela da aplicação em funcionamento.
 
-![Demonstração da Pokédex](URL_DA_IMAGEM)
+![Demonstração da Pokédex](https://github.com/vagnercruz/Pokedex/blob/main/assets/img/aplicacao_finalizada.png?raw=true)
 
 ## 🚀 Instalação
 
